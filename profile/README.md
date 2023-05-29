@@ -15,7 +15,7 @@ Greenix is an application on Android platform used for providing practical solut
 - (MD) A014DKX4427 - Andi Marcellino - Institut Sains dan Bisnis Atma Luhur
 - (MD) A090DSX2438 - Abdur Rahman - Sekolah Tinggi Teknologi Indonesia Tanjung Pinang
 - (CC) C269DSX3095 - Gilang Swandaru - Universitas Nahdlatul Ulama Kalimantan Selatan
-- (CC) C058DSX0930 - Teddy Latief Mi�ahur Rizqi - Politeknik Negeri Banyuwangi
+- (CC) C058DSX0930 - Teddy Latief Miftahur Rizqi - Politeknik Negeri Banyuwangi
 
 ## Repositories
 - [Greenix-Mobile](https://github.com/greenixproject/mobile-development)
